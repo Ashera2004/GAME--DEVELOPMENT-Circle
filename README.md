@@ -4,6 +4,7 @@
 
 To  implement the Bresenham’s  algorithm for circle using a c coding.
 
+---
 
 **ALGORITHM :**
 
@@ -20,6 +21,8 @@ Step 5 : Draw the circle using the algorithm.
 Step  6 : Display the output.
   
 Step 7 : stop.
+
+---
 
 **Program :**
 ```
@@ -85,14 +88,14 @@ int plotpoints(int xcenter, int ycenter, int x, int y) {
 
 ```
 
-
+---
 
 **Output :**
 
 
 <img width="643" height="480" alt="GDT_exp3" src="https://github.com/user-attachments/assets/75b00d42-bb2a-4611-84a4-b0442fd9d06c" />
 
-
+---
 
 **Result :**
 
