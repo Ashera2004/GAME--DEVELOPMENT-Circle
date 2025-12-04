@@ -25,7 +25,7 @@ Step 7 : stop.
 ---
 
 **Program :**
-```
+```c
 #include <stdio.h>
 #include <conio.h>
 #include <math.h>
